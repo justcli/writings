@@ -1,3 +1,4 @@
+# Why Testers Shouldn't Code
 Over the last decade, automated testing has undergone major changes. Its adoption has increased. And so has its very nature. These days, automated tests involve code writing. Testers use java, javascript, ruby, and other languages to write their test codes. So much so that a tester with little or no knowledge of these languages would not be considered a real tester.
 
 What I am going to argue is completely against this trend. Here I propose some reasons why testers should not code.
