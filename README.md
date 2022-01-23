@@ -2,8 +2,7 @@
 
 <ol>
 
-<li><a href=https://github.com/justcli/writings/wiki/The-(a)dharmic-side-of-charity>The (a)dharmic side of charity</a> &nbsp;&nbsp;&nbsp;(latest) </li>
-<li><a href=https://github.com/justcli/writings/wiki/An-Interview-With-Docker>An Interview With Docker</a></li>
+<li><a href=https://github.com/justcli/writings/wiki/An-Interview-With-Docker>An Interview With Docker</a> &nbsp;&nbsp;&nbsp;(latest)</li>
 <li><a href=https://github.com/justcli/writings/wiki/Writing-Better-Stories-In-Gherkin>Writing Better Stories in Gherkin</a> </li>
 <li><a href=https://github.com/justcli/writings/wiki/Cost-Impact-of-Software-Design>Cost Impact of Software Design</a> </li>
 <li><a href=https://github.com/justcli/writings/wiki/Solving-the-SQL-or-NoSQL-Conundrum>Solving the SQL or NoSQL Conundrum</a> </li>
